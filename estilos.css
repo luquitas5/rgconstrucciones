@@ -1,0 +1,38 @@
+/*Nav*/
+header {
+   position: sticky;
+   top: 0;
+    
+}
+li {
+    font-family: 'Noto Sans';
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.nav-link {
+    text-align: center;
+}
+/*inicio*/
+.imgInicio {
+    width: 100vw;
+    height: auto;
+}
+.h1Inicio {
+    font-family: 'Open Sans';
+    font-weight: 800;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    font-size: 65px;
+}
+.divInicio {
+    display: flex;
+    justify-content: center;
+}
+.pInicio {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 28px;
+    width: 60%;
+    text-align: center;
+}
